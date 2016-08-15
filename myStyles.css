@@ -1,12 +1,16 @@
-#rightSide {
+img {
     position: absolute;
+}
+div {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+}
+#rightSide {
     left: 500px;
     border-left: 1px solid black;
-    width: 500px;
-    height: 500px;
     margin-left: 200px;
 }
-#leftside {
-    width: 500px;
-    height: 500px;
+#leftSide {
+    margin-left: 200px;
 }
